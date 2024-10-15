@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Edwin Laverde-Villarreal
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Edwin
+last_name: Laverde
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌌
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,70 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Universidad Nacional de Colombia
+    url: https://unal.edu.co/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'mailto:elaverde@unal.edu.co'
+    label: Get in touch!
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://github.com/edwin9532
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0008-6388-1630
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/edwin-laverde-804966246/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Astrophysics
+  - Star Cluster Formation
+  - Galaxy Evolution
+  - Cosmology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc (Hons.) Physics
+    institution: Universidad Nacional de Colombia
+    date_start: 2020-04-01
+    date_end: 2025-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on mass segregation in young star clusters with primordial binaries
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  # - area: MEng Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey there! I'm a senior undergraduate student from the Physics Department at the National University of Colombia. I find joy in astrophysics and in programming, so I'm deeply into computational astrophysics, I'm still exploring different fields and open problems, but have been mostly inclined towards Star Clusters, Galaxies, and Cosmology. I also find joy in football, boardgames, reading, nature, watching documentaries, and in appreciating and creating artwork.
