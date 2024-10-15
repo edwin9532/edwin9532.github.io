@@ -53,7 +53,7 @@ interests:
   - Cosmology
 
 education:
-  - area: BSc (Hons.) Physics
+  - area: B.Sc. (Hons.) in Physics
     institution: Universidad Nacional de Colombia
     date_start: 2020-04-01
     date_end: 2025-03-31
@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-Hey there! I'm a senior undergraduate student from the Physics Department at the National University of Colombia. I find joy in astrophysics and in programming, so I'm deeply into computational astrophysics, I'm still exploring different fields and open problems, but have been mostly inclined towards Star Clusters, Galaxies, and Cosmology. I also find joy in football, boardgames, reading, nature, watching documentaries, and in appreciating and creating artwork.
+Hey there! I'm a senior undergraduate student from the Physics Department at the National University of Colombia. I find joy in astrophysics and in programming, so I'm deeply into computational astrophysics. I'm still exploring different fields and open problems, but have been mostly inclined towards Star Clusters, Galaxies, and Cosmology. I also find joy in football, boardgames, reading, nature, watching documentaries, and in appreciating and creating artwork.
